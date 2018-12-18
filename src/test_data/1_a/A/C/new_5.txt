@@ -1,0 +1,33 @@
+Technical Skills:
+
+● Experience in designing and implementing test automation frameworks (Like
+Data-driven, Keyword-driven, hybrid, and BDD framework).
+
+● Technology expertise in implementing custom automation library and utilities in
+various languages such as Java, Python, C#.
+
+● Strong capabilities in emerging open-source testing tools such as Selenium
+webdriver, Selenium Grid, Genie, sikuli etc.
+
+● Strong competencies in technologies such as Maven,TestNG,BDDCucumber,
+FitNesse etc.
+
+● Extensive skills in mobile test automation using open-source solutions such as
+Robotium, Appium, Selenium Android driver.
+
+● Experience in testing web services/ API testing using SOAPUI, POSTMAN and
+HTTPclient libraries.
+
+● Expertise in integration of test automation with continuous integration CI tools
+(Like -Jenkins).
+
+● Worked on open Source Code Repository (like GitHub, Stash - BitBucket) to
+maintain updated copy of automated tests.
+
+● Worked on bug reporting tools like Bugzilla and JIRA.
+
+● Strong technology leadership and consultancy by QA industry veterans.
+
+● Automates Security Assessment with OWASP ZAP.
+
+● Worked on AWS technologies as a Devops.

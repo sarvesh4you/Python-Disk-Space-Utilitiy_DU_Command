@@ -1,0 +1,1 @@
+I suggest you contact the websites displaying the warning and suggest they fix the issue of sending unsecure content when you are on secure pages.

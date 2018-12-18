@@ -1,0 +1,22 @@
+Responsibilities:
+
+
+● Creating & reviewing Automation Framework in all phases and recommending best-fit solutions based on our expertise and skills.
+
+● Performing a technical POC to client and teams to show current progress and new implementation.
+
+● Providing help in designing an optimized framework by considering the aspects of extensibility, reusability, and maintainability.
+
+● Test Automation Strategy and Estimation for automation task of new modules in Project.
+
+● Automation of new features added in each sprint cycle in the project.
+
+● Automated tests execution difference environments once new build becomes available.
+
+● Automated smoke tests execution on multiple OS/Browser combinations as per OS traceability matrix.
+
+● Bugs are reported in JIRA which are captured by automated tests execution.
+
+● Maintaining the Automation Test Summary and Comprehensive test reports for executed tests build wise and shared to QA, dev, and managers.
+
+● Maintenance of Jenkins jobs and regular script updates check in to Stash code repository.
